@@ -1,0 +1,23 @@
+export const nameBand = 'TEARS FOR FEARS';
+export let nameSongs = [
+	"SHOUT", /*1*/
+	"EVERYBODY WANTS TO RULE THE WORLD", /*2*/
+	"THE WORKING HOUR", /*3*/
+	"LISTEN", /*4*/
+	"MAD WORLD", /*5*/
+	"PALE SHELTER", /*6*/
+	"SOWING THE SEEDS OF LOVE", /*7*/
+	"BAD MAN'S SONG", /*8*/
+	"YEAR OF THE KNIFE", /*9*/
+	"SWORDS AND KNIVES", /*10*/
+	"STANDING ON THE CORNER ", /*11*/
+	"WOMAN IN CHAINS", /*12*/
+	"SOWING THE SEEDS OF LOVE", /*13*/
+	"ADVICE FOR THE YOUNG AT HEART", /*14*/
+	"COLD", /*15*/
+	"MEMORIES FADE", /*16*/
+	"HEAD OVER HEELS", /*17*/
+	"MOTHERS TALK", /*18*/
+	"BROKEN", /*19*/
+	"I BELIEVE", /*20*/
+]
